@@ -18,5 +18,7 @@ Back-end technologies:
  * AWS
 
 Frontend: https://github.com/jean553/at-home-mobile
+
 Backend: https://github.com/jean553/at-home-server
+
 Infrastructure: https://github.com/jean553/at-home-infrastructure
